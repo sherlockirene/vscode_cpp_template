@@ -1,7 +1,8 @@
 #c++ simple template for vscode
-only for mac
 
-##Shutcuts config
+> only for mac
+
+## Shutcuts config
 
 ```
 [
@@ -20,3 +21,7 @@ only for mac
 Run without debug: `option` + `5`
 
 Run with debug: `option` + `R`
+
+## Cleaning bash
+
+`find . -name "*.bin*" -exec rm -rf {} +`
