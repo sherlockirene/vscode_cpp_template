@@ -33,3 +33,5 @@
 
 # Self
 .DS_Store 
+*.bin*
+Info.plist
