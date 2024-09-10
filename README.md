@@ -6,17 +6,8 @@ only for mac
 ```
 [
     {
-        "key": "shift+cmd+0",
-        "command": "leetcode.testSolution"
-    },
-    {
         "key": "alt+r",
         "command": "workbench.action.debug.start",
-        "when": "debuggersAvailable && debugState == 'inactive'"
-    },
-    {
-        "key": "f5",
-        "command": "-workbench.action.debug.start",
         "when": "debuggersAvailable && debugState == 'inactive'"
     },
     {
