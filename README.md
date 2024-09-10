@@ -1,6 +1,8 @@
 #c++ simple template for vscode
 only for mac
+
 ##Shutcuts config
+
 ```
 [
     {
