@@ -27,4 +27,5 @@ only for mac
 ]
 ```
 Run without debug: `option` + `5`
+
 Run with debug: `option` + `R`
