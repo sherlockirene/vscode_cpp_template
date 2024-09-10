@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "dense": "cpp",
+        "cholesky": "cpp",
+        "lu": "cpp",
+        "iostream": "cpp",
+        "qr": "cpp",
+        "svd": "cpp",
+        "geometry": "cpp",
+        "core": "cpp",
+        "vector": "cpp"
+    }
+}
